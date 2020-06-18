@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/clion_project/UThash/headerfile/data_type_define.h
+
+E:/clion_project/UThash/headerfile/header.h
+
+E:/clion_project/UThash/main.c
+stdio.h
+-
+headerfile/data_type_define.h
+E:/clion_project/UThash/headerfile/data_type_define.h
+headerfile/header.h
+E:/clion_project/UThash/headerfile/header.h
+uthash/uthash.h
+E:/clion_project/UThash/uthash/uthash.h
+
+E:/clion_project/UThash/uthash/uthash.h
+string.h
+-
+stddef.h
+-
+stdlib.h
+-
+stdint.h
+-
+stdint.h
+-
+stdint.h
+-
+stdio.h
+-
+

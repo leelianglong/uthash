@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="UThash"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/clion_project/UThash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UThash">
+				<Option output="E:/clion_project/UThash/cmake-build-debug/UThash.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/clion_project/UThash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 UThash"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UThash/fast">
+				<Option output="E:/clion_project/UThash/cmake-build-debug/UThash.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/clion_project/UThash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 UThash/fast"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/clion_project/UThash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/clion_project/UThash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;E:/clion_project/UThash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/clion_project/UThash/headerfile/data_type_define.h">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/headerfile/header.h">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/main.c">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/uthash/utarray.h">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/uthash/uthash.h">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/uthash/utlist.h">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/uthash/utringbuffer.h">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/uthash/utstack.h">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/uthash/utstring.h">
+			<Option target="UThash"/>
+		</Unit>
+		<Unit filename="E:/clion_project/UThash/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
